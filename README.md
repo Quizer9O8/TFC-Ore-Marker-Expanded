@@ -1,9 +1,9 @@
-# TFC-Ore-Marker
-![Logo](https://raw.githubusercontent.com/HermitOwO/TFC-Ore-Marker/master/base/pack.png)
+# TFC-Ore-Marker Expanded
+![pack](https://github.com/user-attachments/assets/53f9489b-428e-4a4e-b117-7108dee2e00e)
 
- Crop Marker from Vanilla Tweaks modified for ore indicators.
+A fork based off [HermitOwO's](https://github.com/HermitOwO/TFC-Ore-Marker) resourcepack that changes the the color of each ore indicator in TFC.
 
- Includes ores from TFC, Firmalife, Metallum and TFC + IE Crossover.
+Includes ores from TFC, Firmalife, Metallum and TFC + IE Crossover.
 
 # Credits
- Vanilla Tweaks: https://vanillatweaks.net/
+HermitOwO: https://github.com/HermitOwO/TFC-Ore-Marker
